@@ -109,11 +109,11 @@ namespace Project2D
                 #region Rotation
 
                 //ROTATION
-                if (IsKeyDown(KeyboardKey.KEY_MINUS) && IsKeyUp(KeyboardKey.KEY_EQUAL))
+                if (IsKeyDown(KeyboardKey.KEY_COMMA) && IsKeyUp(KeyboardKey.KEY_PERIOD))
                 {
                     AddRotation(rotationSpeed * deltaTime);
                 }
-                else if (IsKeyDown(KeyboardKey.KEY_EQUAL) && IsKeyUp(KeyboardKey.KEY_MINUS))
+                else if (IsKeyDown(KeyboardKey.KEY_PERIOD) && IsKeyUp(KeyboardKey.KEY_COMMA))
                 {
                     AddRotation(-rotationSpeed * deltaTime);
                 }
@@ -123,7 +123,7 @@ namespace Project2D
                 #region Shooting
 
                 //FIRING
-                if (IsKeyDown(KeyboardKey.KEY_BACKSLASH))
+                if (IsKeyDown(KeyboardKey.KEY_SLASH))
                 {
                     //Add to timer
                     shotTimerP2 += deltaTime;
