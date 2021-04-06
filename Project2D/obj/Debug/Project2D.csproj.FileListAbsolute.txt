@@ -416,7 +416,6 @@ C:\Users\s210122\Desktop\Tank-Game\Project2D\bin\Debug\System.Xml.XmlSerializer.
 C:\Users\s210122\Desktop\Tank-Game\Project2D\bin\Debug\System.Xml.XPath.dll
 C:\Users\s210122\Desktop\Tank-Game\Project2D\bin\Debug\System.Xml.XPath.XDocument.dll
 C:\Users\s210122\Desktop\Tank-Game\Project2D\bin\Debug\MathClasses.dll
-C:\Users\s210122\Desktop\Tank-Game\Project2D\bin\Debug\MathClasses.pdb
 C:\Users\s210122\Desktop\Tank-Game\Project2D\obj\Debug\Project2D.csprojAssemblyReference.cache
 C:\Users\s210122\Desktop\Tank-Game\Project2D\obj\Debug\Project2D.exe.config
 C:\Users\s210122\Desktop\Tank-Game\Project2D\obj\Debug\Project2D.csproj.CopyComplete

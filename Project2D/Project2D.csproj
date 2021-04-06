@@ -37,7 +37,7 @@
   <ItemGroup>
     <Reference Include="MathClasses, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\MathLibrary\MathLibrary\MathLibrary\bin\Debug\netstandard2.0\MathClasses.dll</HintPath>
+      <HintPath>..\MathClasses.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
